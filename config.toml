@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Colibri"
+theme = "hyde"
+[params]
+description = "Share"
+copyright = "Copyright (c) 2018"
+
